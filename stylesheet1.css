@@ -1,0 +1,49 @@
+.fullwidth{
+    width: 100%;
+}
+.no_pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_mar{
+    margin-left: 0;
+    margin-right: 0;
+}
+.set_background{
+    min-height: 745px;
+    background-image: url(intro_bg.jpg);background-repeat: no-repeat;background-size: cover;
+}
+.navbar-default{color: white;background-color: transparent;border: 0;margin-top: 20px;}
+.navbar-default .navbar-nav>li>a{color: white;font-size: 12pt;font-family: 'Gentium Book Basic', serif;
+}
+.navbar-default .navbar-nav>li>a:hover{border-top: 2px solid white;color: aqua;box-sizing: border-box;}
+.intro_text p{color: white;font-size: 50pt;text-align: center;padding-top: 120px;font-family: 'Yeseva One', cursive;
+}
+.intro_button{padding-left: 44px;padding-top: 50px;}
+.about_the_cook{margin-top: 150px;}
+.about_cook{min-height: 500px;background-image: url(cook_bg.jpg);background-size: cover;}
+.cook_head{text-align: center;font-size: 24pt;font-family: 'Yeseva One', cursive;}
+.cook_para{text-align: center;font-size: 12pt;margin-top: 20px;}
+.cook_dish{margin-top: 20px;}
+.ingridients{height: 700px;background-image: url(ingridients_bg.jpg);background-repeat: no-repeat;background-size: cover;}
+.ing{margin-top: 100px;}
+.mainmenu{height: 993px;background-image: url(mainmenu_bg.jpg);background-repeat: no-repeat;background-size: cover;}
+.menu_header{text-align: center;font-family: 'Yeseva One', cursive;font-size: 20pt;color: #d1a728;}
+.price{float: right;color: #d1a728;}
+.f_title{color: #d1a728;font-size: 16pt;}
+.food_list{border-bottom: 1px solid #d1a728;}
+.menu_items_list{font-family: 'Yeseva One', cursive;padding: 30% 0;}
+.g_reviews{height: 760px;background-image: url(guest_review_bg.jpg);background-size: cover;background-repeat: no-repeat;background-position: center;}
+.gimage{padding-top: 20%;}
+.contact_bg{min-height: 700px;background-image: url(contact_bg.png);background-size: cover;background-repeat: no-repeat;}
+.contact_head{text-align: center;color: #d2a624;font-size: 20pt;}
+form{color:#d2a624; }
+.contactmain{padding-top: 5%;}
+.contact_base{padding-top: 7%;}
+.contactbutt{background-color:#d2a624;font-size: 12pt;color: white;border: 0;padding: 5% 20%;}
+.footer_bg{height: 300px; background-color: #191919;}
+.f_header{color: white;text-align: center;}
+.foot_para{padding-top: 20px;color: white;text-align: center;}
+.intro_but{font-size: 15pt;padding: 2%;border: 0;background-color: transparent;color: aliceblue;}
+.bu1{background-image: url(bu1.png);}
+.bu2{background-image: url(bu2.png);}

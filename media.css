@@ -1,0 +1,28 @@
+@media (max-width: 767px) { 
+
+.set_background{height: 170px;background-image: url(intro_bg.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;}
+.intro_text p{color: white;font-size: 25pt;text-align: center;padding-top: 60px;font-family: 'Yeseva One', cursive;
+}
+    
+    .about_cook{min-height: 700px;background-image: url(cook_bg.jpg);background-size: cover;}
+    .ingridients{height: 300px;background-image: url(ingridients_bg.jpg);background-repeat: no-repeat;background-size: cover;}
+    .ing{margin-top: 20px;width: 100%; padding-left: 0;
+    padding-right: 0;}
+    .about_the_cook{margin-top: 15px;}
+    .cook_head{text-align: center;font-size: 18pt;font-family: 'Yeseva One', cursive;}
+.cook_para{font-size: 10pt;margin-top: 5px;}
+.cook_dish{margin-top: 5px;}
+    
+    .mainmenu{height: 1893px;background-image: url(mainmenu_bg.jpg);background-repeat: no-repeat;background-size: cover;}
+.g_reviews{height: 360px;background-image: url(guest_review_bg.jpg);background-size: cover;background-repeat: no-repeat;background-position: center;}
+.footer_bg{height: 700px; background-color: #191919;}
+    .foot_para{padding-left: 0;padding-right: 0;}    
+    
+}
+@media (min-width: 768px) and (max-width: 991px) { 
+
+
+
+}
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 1200px) { ... }
